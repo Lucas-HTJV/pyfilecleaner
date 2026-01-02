@@ -1,0 +1,11 @@
+{
+    "source_dir": "Downloads",
+    "dry_run": false,
+    "destinations": {
+    "Images": "Imagens",
+    "Videos": "Vídeos",
+    "Documents": "Documentos",
+    "Music": "Música",
+    "Others": "Instalaveis"
+   }
+}
